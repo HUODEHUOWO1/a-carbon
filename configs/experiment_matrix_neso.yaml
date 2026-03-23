@@ -1,0 +1,107 @@
+﻿matrix_name: icws2026_freeze_v2_precision_only_neso
+paper_claims:
+- fixed_quality_and_slo_reduce_operational_carbon
+- forecast_budgeted_joint_better_under_burst_than_reactive
+- robustness_under_signal_distortion_and_multitenancy
+workloads:
+  vision:
+    model: resnet50
+    dataset: imagenet-1k
+    calibration_size: 5000
+    evaluation_pool: imagenet_val_10k_stratified
+    quality_metric: top1_accuracy
+    max_accuracy_drop_pp: 1.0
+  nlp:
+    model: bert-base
+    dataset: agnews
+    calibration_size: 5000
+    evaluation_pool: agnews_test
+    quality_metric: accuracy
+    max_accuracy_drop_pp: 1.0
+regions:
+  gb_north_scotland:
+    deployment_region_label: gb-north-scotland
+    grid_zone: GB
+    neso_column: North Scotland
+  gb_london:
+    deployment_region_label: gb-london
+    grid_zone: GB
+    neso_column: London
+  gb_south_wales:
+    deployment_region_label: gb-south-wales
+    grid_zone: GB
+    neso_column: South Wales
+seasons:
+  summer_week:
+    week_start_utc: '2025-07-14'
+    days: 7
+  winter_week:
+    week_start_utc: '2025-01-13'
+    days: 7
+loads:
+  nominal:
+    rho: 0.6
+    duration_hours: 24
+    burst_windows: []
+  burst:
+    rho_base: 0.6
+    duration_hours: 24
+    burst_peak_rho: 1.2
+    burst_window_minutes: 10
+    burst_windows_per_day: 5
+tenant_mix:
+  standard: 0.7
+  premium: 0.3
+controllers:
+- static_hq
+- static_eco
+- reactive_precision
+- reactive_joint
+- forecast_budgeted_joint
+mode_library:
+  precision_candidates:
+  - fp16
+  - int8
+  capacity_k_candidates:
+  - 4
+  standalone_latency_multiplier_limit_vs_static_hq_p95: 1.5
+  max_modes_per_workload: 4
+e0:
+  warmup_requests: 500
+  measure_requests: 5000
+  seeds:
+  - 11
+  - 22
+  - 33
+  - 44
+  - 55
+  simulator_acceptance:
+    p50_relative_error_max: 0.1
+    p95_relative_error_max: 0.1
+    violation_abs_error_max_pp: 2.0
+slo:
+  definition: 1.10 * p95_static_hq_nominal
+carbon:
+  source: neso
+  dataset: regional_forecast
+  timestamp_granularity_minutes: 30
+  fill_policy: interpolate_ffill_bfill
+  converter_script: scripts/convert_neso_bundle_to_carbon_csv.py
+  bundle_root: E:/a-carbon/neso_carbon_intensity_bundle
+experiment_status:
+  paper_use: true
+  negative_result_capacity_k: true
+  do_not_export_formal_precomputed_from_capacity_gates: true
+  formal_levers:
+  - precision
+  disabled_levers:
+  - capacity_k
+paths:
+  frozen_matrix: runs/frozen_matrix_neso.yaml
+  profiling_root: runs/e0/profiling
+  cache_root: runs/e0/cache
+  switch_penalty_root: runs/e0/switch_penalty
+  calibration_root: runs/e0/calibration
+  carbon_root: runs/carbon_neso
+  traces_root: runs/traces_neso
+  e1_root: runs/e1_neso

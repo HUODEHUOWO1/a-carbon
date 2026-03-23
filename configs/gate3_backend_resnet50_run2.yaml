@@ -1,0 +1,47 @@
+﻿run:
+  output_root: artifacts/gates/gate3/run2
+  gpu_name: RTX4060_Laptop
+  device: cuda:0
+  batch_size: 1
+  seed: 20260327
+
+workload:
+  id: resnet50_imagenet
+  e0_alias: vision
+  type: vision_classification
+  model_name: resnet50
+  checkpoint: null
+
+measurement:
+  warmup_requests: 50
+  measure_requests: 100
+  repeat_per_request: 200
+  energy_backend: nvml_total_energy
+  nvml_gpu_index: 0
+  power_integration_enabled: true
+  power_sample_interval_ms: 10
+  power_min_samples: 20
+
+data:
+  calibration_csv: E:/a-carbon/data/splits/resnet50_imagenet_calibration_5000.csv
+  profile_csv: E:/a-carbon/data/splits/resnet50_imagenet_audit_unique100.csv
+  sample_id_col: sample_id
+  label_col: label
+  group_id_col: group_id
+  image_col: image_path
+
+admission:
+  static_hq_mode_id: fp16_k4
+  max_accuracy_drop_pp: 1.0
+  max_latency_multiplier_vs_hq_p95: 1.5
+  max_modes: 4
+  collapse_equivalent_modes: true
+  equiv_accuracy_pp: 0.1
+  equiv_p95_rel: 0.02
+  equiv_energy_rel: 0.02
+
+modes:
+  - mode_id: fp16_k4
+    precision: fp16
+    capacity_k: 4
+    backend: pytorch

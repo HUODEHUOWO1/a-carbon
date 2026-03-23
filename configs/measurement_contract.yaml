@@ -1,0 +1,34 @@
+﻿contract_name: measurement_stack_frozen_v1
+status: frozen
+paper_use: true
+applies_to:
+  hardware: RTX4060_Laptop
+  profiler: src/cai_lab/e0/real_profile.py
+  default_config: configs/profiling_real_resnet50.yaml
+measurement:
+  repeat_per_request: 400
+  energy_backend: nvml_total_energy
+  power_integration_enabled: true
+  power_sample_interval_ms: 10
+  power_min_samples: 20
+canonical_columns:
+  latency: latency_per_infer_ms
+  energy: energy_per_infer_Wh
+legacy_aliases:
+  latency_ms: latency_per_infer_ms
+  energy_Wh: energy_per_infer_Wh
+required_window_columns:
+  - latency_window_ms
+  - energy_window_Wh
+  - energy_window_Wh_powerint
+  - implied_power_W
+  - energy_backend_rel_err
+  - energy_backend_signed_err
+validation_requirements:
+  gate3_backend_crosscheck:
+    median_rel_err_max: 0.10
+    p95_rel_err_max: 0.20
+    invalid_power_samples_count_max: 0
+notes:
+  - Do not change measurement semantics during formal profiling runs.
+  - Any change to repeat/window/backend requires re-running gate audits.

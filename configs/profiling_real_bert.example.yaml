@@ -1,0 +1,50 @@
+﻿run:
+  output_root: artifacts/profiling_real
+  gpu_name: RTX4090
+  device: cuda:0
+  batch_size: 1
+  seed: 123
+
+workload:
+  id: bert_base_agnews
+  e0_alias: nlp
+  type: text_classification
+  model_name: bert-base-uncased
+  checkpoint: E:/a-carbon/checkpoints/bert_base_agnews
+  num_labels: 4
+
+measurement:
+  warmup_requests: 500
+  measure_requests: 5000
+  repeat_per_request: 1
+  energy_backend: nvml_total_energy
+  nvml_gpu_index: 0
+
+data:
+  calibration_csv: E:/a-carbon/data/splits/bert_base_agnews_calibration_5000.csv
+  profile_csv: E:/a-carbon/data/splits/bert_base_agnews_profile_5000.csv
+  sample_id_col: sample_id
+  label_col: label
+  group_id_col: group_id
+  text_col: text
+
+admission:
+  static_hq_mode_id: fp16_k4
+  max_accuracy_drop_pp: 1.0
+  max_latency_multiplier_vs_hq_p95: 1.5
+  max_modes: 4
+
+modes:
+  - mode_id: fp16_k4
+    precision: fp16
+    capacity_k: 4
+    backend: pytorch
+  - mode_id: fp16_k2
+    precision: fp16
+    capacity_k: 2
+    backend: pytorch
+  - mode_id: int8_k4
+    precision: int8
+    capacity_k: 4
+    backend: pytorch
+    calibration_required: true

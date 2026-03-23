@@ -1,0 +1,3 @@
+﻿$env:PYTHONPATH = "e:\a-carbon\src"
+
+python -m cai_lab.cli e3-run --matrix runs/frozen_matrix.yaml --admitted-csv runs/e0/profiling/admitted_modes.csv --cache-csv runs/e0/cache/offline_cache.csv --traces-root runs/traces_smoke --carbon-csv runs/carbon/electricity_maps_carbon.csv --switch-penalty-yaml runs/e0/switch_penalty/switch_penalties.yaml --regions eu --seasons summer_week --loads nominal burst --max-traces-per-workload 1 --max-requests-per-trace 150 --output runs/e3_smoke

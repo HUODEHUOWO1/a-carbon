@@ -1,0 +1,27 @@
+﻿contract_name: measurement_stack_tensorrt_spike_v1
+status: conditional
+paper_use: false
+applies_to:
+  hardware: RTX4060_Laptop
+  profiler: src/cai_lab/e0/real_profile.py
+  config: configs/spike/vision_precision_backend_spike.yaml
+measurement:
+  repeat_per_request: 400
+  energy_backend: nvml_total_energy
+  power_integration_enabled: true
+  power_sample_interval_ms: 10
+  power_min_samples: 20
+canonical_columns:
+  latency: latency_per_infer_ms
+  energy: energy_per_infer_Wh
+audit:
+  report: runs/spike/vision_tensorrt_energy_backend_audit.json
+  gate3_strict_pass: false
+  gate3_relaxed_pass: false
+decision:
+  canonical_energy_backend: nvml_total_energy
+  power_integration_role: diagnostic_only
+  formal_precomputed_allowed: false
+notes:
+  - TensorRT spike keeps two non-degenerate modes (fp16_k4/int8_k4).
+  - Cross-backend power integration is retained only for diagnostics in this spike stage.

@@ -1,0 +1,1001 @@
+sample_id,label,group_id,wnid,class_name,image_path,split,paper_use,dataset_variant
+imagenette160_train_008637,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_9947.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005992,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_37694.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001865,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_13078.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009353,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_8026.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005654,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_38833.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004070,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_10095.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003791,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_2708.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000999,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_11098.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003447,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_31464.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009059,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_3536.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001896,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_33265.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007864,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/ILSVRC2012_val_00024874.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000920,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_28078.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007726,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_15467.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001431,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_51808.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000916,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_10754.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008985,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_1804.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000546,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_8654.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003568,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_11944.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002022,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_1108.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008652,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_6399.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003939,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_1009.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001277,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_383.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006371,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_29159.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004629,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_1024.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002197,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_36109.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003813,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_17896.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003094,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_2678.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004977,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_27079.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000826,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_7653.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007488,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_187.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008621,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10129.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002966,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_8564.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001103,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_19103.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003344,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_20675.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007378,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1959.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006267,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_30576.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004813,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_364.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005260,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_2514.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007436,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_875.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002281,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_13758.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000500,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_9057.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003902,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_26948.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007292,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_35.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004185,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_993.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002345,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_11636.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006114,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_37195.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008869,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_7228.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001583,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_12205.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001371,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_28923.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004958,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_8805.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000924,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_23067.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005247,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_29793.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003750,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_14506.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005785,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_26454.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002381,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_6217.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008982,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5467.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000721,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_20713.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002572,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_26727.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007808,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_1897.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002913,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14188.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007401,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1539.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002061,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_337.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000454,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_28423.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006221,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_37897.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001264,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_12247.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004365,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_8529.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000794,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_1963.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002311,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_25557.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004378,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_12785.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009288,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_8266.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006953,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_5503.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007218,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3115.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001798,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_21298.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001095,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_12694.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006552,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_28838.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006617,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3203.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001127,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_20206.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002620,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_7489.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005371,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_33913.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000639,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_17108.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000542,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_5779.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009153,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_1737.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006252,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_30426.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006423,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_32448.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006683,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2746.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000490,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_27988.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009095,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_16067.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004616,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_12384.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006092,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_67963.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003353,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_465.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000975,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_13283.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009012,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_6656.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002975,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15276.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003760,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_19003.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007696,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_9567.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009268,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10039.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001788,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_11216.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007163,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3586.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005296,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_10576.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002475,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_26833.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001159,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_14974.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006299,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_29407.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008599,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_4278.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009017,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_1519.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006475,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_70959.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006892,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2135.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006210,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_54476.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000090,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_15196.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003047,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_26213.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000871,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_17545.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005918,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_32505.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001631,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_29923.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006610,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_5754.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004456,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_5908.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008431,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_2147.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008263,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_10006.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008256,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_9153.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006480,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_38263.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004503,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_11593.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006771,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_4049.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002970,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14146.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002011,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_14269.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004464,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_8499.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001451,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_4446.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003660,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_6268.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000779,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_4694.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008191,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_21218.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000615,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_12765.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008426,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_13465.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007415,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_4863.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000690,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_4907.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008388,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_10798.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007031,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3175.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007474,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_4979.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009111,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_2585.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000925,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_7287.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005677,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_57578.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007197,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1728.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008283,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_14136.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005191,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_9969.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009287,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_16895.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004354,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_9289.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001983,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_455.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005797,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_53664.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008556,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10723.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009285,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_384.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005090,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_35828.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001024,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_13944.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009236,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5043.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007005,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_5883.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007148,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1295.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009343,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_12463.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007408,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_7925.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001951,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_22434.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005340,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_10563.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008913,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_7797.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001152,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_27624.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005020,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_29713.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000014,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3804.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006156,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_56033.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005320,497,4,n03028079,church,imagenette2-160/train/n03028079/ILSVRC2012_val_00016873.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008421,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_13377.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003328,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_3629.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003882,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_10649.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001510,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_79145.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007820,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_11883.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001841,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_28259.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004947,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_25828.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003297,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_21283.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003844,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_14027.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004907,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_11119.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002967,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15319.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003196,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15474.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002451,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_16379.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009105,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_7827.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006633,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1129.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007441,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_867.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002184,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_21415.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004057,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_14549.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003890,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_12917.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008581,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10419.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001885,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_22767.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006835,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_565.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001062,701,9,n03888257,parachute,imagenette2-160/train/n03888257/ILSVRC2012_val_00018229.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004325,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_10845.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001212,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_9059.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004599,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_6643.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002729,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_18783.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000201,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_18169.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000172,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_176.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009403,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_3275.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007567,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_3525.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006750,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_883.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000040,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3735.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002816,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_13117.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005300,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_4414.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006131,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_43458.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000268,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_15198.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007150,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_403.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003869,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_8423.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000698,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_4613.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003948,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_6163.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004533,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_8699.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006337,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_33308.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008343,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_10036.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002411,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_16793.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001255,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_67668.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006403,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_25036.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006821,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_4545.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004774,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_16924.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003953,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_6388.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006157,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_3219.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004199,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_7846.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001935,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_646.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007272,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3705.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009464,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_4047.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009252,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_3324.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001703,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_22146.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008846,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10698.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001234,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_22956.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008786,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_9257.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002959,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_13603.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003724,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_8414.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007717,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/ILSVRC2012_val_00033397.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003309,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_10527.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009169,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_16733.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000753,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3308.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006973,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2696.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003131,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_9229.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002860,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_19208.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005467,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_53734.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000243,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3739.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008783,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_12724.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002856,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14504.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002559,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_3749.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001709,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_23198.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003627,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/ILSVRC2012_val_00042375.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003911,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_30985.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007539,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_1464.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002635,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_16908.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002508,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_11785.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009428,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_403.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003053,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14507.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009347,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10655.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004715,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_55804.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002240,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_13415.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005292,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_49083.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003243,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_19378.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003426,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_20494.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004169,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_7055.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008513,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_13463.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002009,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_16688.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005590,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_57417.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000333,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/ILSVRC2012_val_00047374.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008701,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_9289.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003203,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_547.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002312,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_10174.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004711,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_9674.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008148,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_7176.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006893,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_716.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007890,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_11957.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007214,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_5898.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003189,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15469.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002002,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_13945.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002543,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/ILSVRC2012_val_00027785.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009380,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_16256.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008280,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/ILSVRC2012_val_00031964.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001378,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_10708.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000625,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_4876.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000250,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/ILSVRC2012_val_00047189.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007572,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_353.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004164,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_5314.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000339,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_11779.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002249,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_1519.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001215,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_17424.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002063,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_27173.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006224,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_3969.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005882,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_35713.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003579,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_16847.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001599,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_74308.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008003,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_8654.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007615,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_5156.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001949,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_7014.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002894,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_7944.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004869,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_14263.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004807,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_3314.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002733,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_21868.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005385,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_1106.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007495,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3806.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008215,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_20355.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003201,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_16544.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007157,217,1,n02102040,English springer,imagenette2-160/train/n02102040/ILSVRC2012_val_00008334.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009104,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_13783.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000367,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_6838.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004865,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_73549.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008532,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_4539.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000037,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_22539.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006974,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_5449.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005525,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_27455.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001345,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_12973.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009346,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_2019.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001001,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_936.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007798,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_4375.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005126,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_7878.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000881,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_10108.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002171,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/ILSVRC2012_val_00041057.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005748,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_38978.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001346,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_30243.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005810,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_50779.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006076,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_25689.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009303,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_3095.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000030,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_13806.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005857,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_28595.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007112,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1057.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003748,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_6288.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001221,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_1446.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001806,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_9488.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004988,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_17754.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001553,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_1685.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002297,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_3.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003445,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_16116.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003906,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_28418.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005571,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_606.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009271,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_16559.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002109,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_31035.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009046,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_2563.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007684,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_26944.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003881,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_31715.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003273,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_13293.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002262,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_8006.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005773,566,5,n03394916,French horn,imagenette2-160/train/n03394916/ILSVRC2012_val_00038727.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002921,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_2814.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008025,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_7443.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003416,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_1985.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002842,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_20527.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003686,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_13034.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004145,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_13947.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004614,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_8013.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005580,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_27188.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001491,701,9,n03888257,parachute,imagenette2-160/train/n03888257/ILSVRC2012_val_00002508.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008633,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_6275.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005794,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_38555.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003164,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_29218.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000159,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_6213.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002644,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_7597.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003531,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/ILSVRC2012_val_00006909.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009237,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_7524.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005031,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_8989.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005596,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_86729.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001750,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_5599.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000315,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_10154.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002886,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_19388.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005226,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_966.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008568,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_3915.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000817,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_16087.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002200,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_14107.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009335,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_4834.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007176,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_6625.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004427,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_3129.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004496,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_14489.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000134,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3158.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007788,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_15599.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003241,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14969.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001011,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_6738.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008719,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_1993.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001495,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_11755.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001543,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_32247.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003800,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_12308.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004967,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_24726.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007606,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_12846.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006503,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_40683.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001669,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_12883.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005315,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_32056.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003970,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_6497.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002186,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_9065.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007035,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_774.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002032,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/ILSVRC2012_val_00006669.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001774,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_35434.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004038,0,0,n01440764,tench,imagenette2-160/train/n01440764/ILSVRC2012_val_00040833.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003964,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_13464.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004520,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_12925.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003747,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_7499.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006651,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_7328.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001003,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_34607.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002670,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_14354.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003668,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/ILSVRC2012_val_00017466.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009400,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_4058.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006514,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_54786.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000171,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_1218.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006704,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1457.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007563,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_26708.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003101,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_21747.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000614,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_14717.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003375,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_8394.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007721,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_4344.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009229,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_3966.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003107,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15085.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008450,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_11897.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009199,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_14165.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008398,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_6729.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008187,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_16477.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006804,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3496.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005972,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_34553.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005516,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_3308.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001854,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_7587.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005729,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_29507.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006584,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_524.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004187,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_22963.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001120,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_12446.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003183,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14904.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008459,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_21154.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002234,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_6046.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009133,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5097.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005071,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_5035.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001675,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_8837.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009149,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10788.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006426,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_33829.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005626,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_38766.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009423,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_7729.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007340,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1067.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007713,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_1299.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002480,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_23424.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002819,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_13708.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002470,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_20578.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007223,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1094.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005652,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_40614.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008984,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5909.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002741,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_2907.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008894,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_2548.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005234,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_8815.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007329,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1266.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000554,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_23953.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007207,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1283.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001650,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_43086.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003534,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_24914.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002495,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_3114.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001831,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_38633.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003547,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_2074.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008389,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_469.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000470,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_5505.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003671,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_1255.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004548,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_3198.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002273,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_19764.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007231,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_706.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006236,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_29798.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001786,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_25509.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002587,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_16088.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006028,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_58777.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005498,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_24277.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004437,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_11537.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007819,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_10706.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002254,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_5604.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006358,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_32457.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007255,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1719.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006817,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2594.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006276,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_32927.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006099,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_29475.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002384,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_1034.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004736,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_7076.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004788,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_9433.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002697,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_11497.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009062,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5804.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005470,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_14063.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008147,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/ILSVRC2012_val_00025484.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002104,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_32889.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006766,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_885.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004178,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_2853.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002523,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_119.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006765,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3559.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008298,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_6474.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000050,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_10176.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006969,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_6843.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004815,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_14454.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002306,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_33187.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000238,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_16446.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000575,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_22918.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003553,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_20708.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005359,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_27507.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002826,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15094.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008268,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_6636.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000998,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_5827.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001933,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_4575.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006889,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_6009.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008499,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_1176.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000063,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_8295.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007481,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_8304.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009225,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10583.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000285,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_1756.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005899,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_30244.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002324,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_17838.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002505,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_14184.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008457,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/ILSVRC2012_val_00034563.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002346,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_3429.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003312,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_8924.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008922,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_4173.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006453,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_3436.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004259,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_7746.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008677,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_3963.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002764,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_9753.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007366,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_8474.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002295,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_20117.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005651,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_36839.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000180,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_5699.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002500,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_9558.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008145,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_809.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001847,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_59397.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002821,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_19113.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000260,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_7693.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007356,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_97.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000531,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_16625.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003253,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_12869.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004025,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_8219.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005865,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_33527.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004460,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_13257.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001993,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_29135.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005920,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_46866.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000837,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_10885.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006941,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_787.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006218,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_58336.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003960,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_6628.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001199,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_18356.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004004,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_14405.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007588,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_5353.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009177,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_9259.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000254,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_4238.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008159,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_17277.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002974,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14877.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008769,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_4715.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002396,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_16576.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006582,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_7347.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001764,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_52194.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005347,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_11578.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002074,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/ILSVRC2012_val_00028196.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008555,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5667.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005815,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_44243.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008391,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_19188.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008993,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_6384.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000191,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_7615.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003622,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15075.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004279,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_9939.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003628,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_9585.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005809,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_45433.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007458,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_5528.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007343,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_514.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007954,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_20198.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008530,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_3429.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001008,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_31454.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004084,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_7514.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005904,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_15209.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003620,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_21019.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008472,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_6046.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000294,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_10517.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005656,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_13489.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005942,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_38196.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008492,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_8856.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009047,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_18388.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006232,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_16213.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001961,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_87.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005861,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_33663.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005436,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_25995.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000676,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_26437.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008460,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_10056.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001502,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_18464.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000265,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_7077.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009164,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5814.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003386,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_22296.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007307,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_6335.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000691,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_20043.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006263,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_37814.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009320,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_15294.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007896,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_14067.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004537,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_3603.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004428,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_3417.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002486,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_34568.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000657,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_1225.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002971,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_18974.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006082,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_58826.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000101,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_18374.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002513,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_1126.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002055,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_2319.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008086,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_2826.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007705,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_12375.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003852,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_10514.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003474,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_19733.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006898,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_5635.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007999,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_66.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004924,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_6204.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003504,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14239.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003645,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_2658.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006838,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_7629.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004043,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_12208.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001563,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_29449.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003752,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_39.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001575,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_6544.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004118,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_13749.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007565,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/ILSVRC2012_val_00018559.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001560,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_15234.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006506,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_37365.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006102,566,5,n03394916,French horn,imagenette2-160/train/n03394916/ILSVRC2012_val_00013915.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008619,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_3495.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000103,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_995.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002829,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_21319.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005491,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_44245.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007575,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_21863.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001436,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_18096.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007041,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1249.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007883,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_16275.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004780,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_704.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008251,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_10546.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001681,701,9,n03888257,parachute,imagenette2-160/train/n03888257/ILSVRC2012_val_00020003.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005201,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_15653.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005141,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_3057.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009186,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_8876.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000319,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_10506.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001101,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_30668.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003155,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15429.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008565,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_6856.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002504,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_3028.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005270,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_31653.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001042,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_10037.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001141,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_22854.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008837,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_9374.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001959,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_27613.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002950,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_1717.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007391,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2326.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008277,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_9538.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003162,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_21069.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000408,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_15913.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005006,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_25619.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002617,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/ILSVRC2012_val_00042035.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000140,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_7398.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002951,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_3053.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003978,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_7157.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004936,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_10139.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008269,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_734.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004269,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_6494.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002062,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_6716.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001064,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_13075.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006167,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_42167.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004419,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_5103.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003811,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_11734.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000196,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3039.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000347,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_11048.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003446,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14755.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000602,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_6317.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001374,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_69366.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000290,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_11439.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001877,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_17999.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004253,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_2385.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008079,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_8227.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007512,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_715.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004582,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_4983.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002509,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_10936.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005715,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_21289.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002606,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_10729.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006987,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_6844.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005132,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_26577.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000535,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_5235.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002623,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_16839.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000887,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_19158.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008706,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5373.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002791,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_21037.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006553,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_8675.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004871,497,4,n03028079,church,imagenette2-160/train/n03028079/ILSVRC2012_val_00005598.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001321,701,9,n03888257,parachute,imagenette2-160/train/n03888257/ILSVRC2012_val_00011324.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004723,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_3654.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002700,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_20243.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002014,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_16549.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004979,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_10407.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003413,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14643.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007179,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_5308.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001754,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_11056.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007618,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_4313.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005513,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_1234.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005695,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_30404.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000374,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_7349.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002765,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_12255.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002938,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_8077.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001428,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_7199.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004786,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_30177.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006729,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1706.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004401,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_2314.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006965,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3456.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007644,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_18645.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004049,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_6924.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007038,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2983.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003682,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_16608.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007815,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_4836.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002817,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_8018.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005879,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_41133.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007373,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_4737.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008886,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5838.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007212,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3187.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003901,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_3509.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007716,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_6137.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000667,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_22513.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007418,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1675.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007394,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3437.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005947,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_15787.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001603,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_68897.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006340,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_28683.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001156,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_74946.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008173,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_3056.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004710,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_7449.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005997,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_34338.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006269,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_37133.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003044,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_19628.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001294,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_22147.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000081,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_27675.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009069,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_8616.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005661,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_30204.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005086,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_14278.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004120,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_11887.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007153,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_7067.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005599,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_4086.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005311,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_2239.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004926,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_16355.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007562,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_18057.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000360,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_5125.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002456,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_10748.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005458,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_10515.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007785,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_3435.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008631,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5434.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008714,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_1475.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007390,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_759.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006144,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_32405.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006860,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_5514.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009053,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/ILSVRC2012_val_00012356.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007313,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2959.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008407,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_5266.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006193,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_53736.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005628,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_24023.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006434,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_39718.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003086,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_1967.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002092,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_17989.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006607,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_988.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007111,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_616.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000936,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3679.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001265,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_3669.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005448,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_8306.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006439,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_38394.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006481,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_40833.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007992,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_3618.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004539,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_12255.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008713,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5026.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001619,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_949.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003529,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_6978.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007665,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_336.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000612,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_11288.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005780,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_37984.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003757,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_4003.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007659,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_19728.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005484,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_86329.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002294,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_24278.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004874,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_478.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003178,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_23413.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003289,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_8248.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001606,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_8338.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008196,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_3104.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004476,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_4613.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003893,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_2006.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000739,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3146.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008392,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_11318.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000444,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_11446.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002028,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_19594.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008433,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_4293.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001790,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_20684.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002344,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_26324.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007037,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3889.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008840,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_455.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005202,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_9438.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003653,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_2423.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005393,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_10494.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006111,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_25364.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002290,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_14457.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006526,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_9336.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004357,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_10783.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006753,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3905.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008752,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_3358.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006813,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_8463.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004750,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_3905.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001517,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_12568.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006620,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1859.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000467,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_18554.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008765,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_504.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004368,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_14624.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005407,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_69.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008962,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5825.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005391,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_4773.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004923,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_26457.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002243,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_157.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000047,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_6646.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004938,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_56319.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007996,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/ILSVRC2012_val_00035803.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004792,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_95473.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003144,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_29593.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005802,566,5,n03394916,French horn,imagenette2-160/train/n03394916/ILSVRC2012_val_00033784.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008035,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_13166.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002932,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15064.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007885,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_2127.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000905,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_18596.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006736,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2788.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003773,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_9799.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008233,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_9746.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008684,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5637.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002892,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_3408.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006245,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_42673.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004233,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_12037.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008202,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_11063.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002727,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_10373.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001170,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_30899.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006998,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2958.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004853,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_28758.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002719,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_6728.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008558,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10235.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009331,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_6016.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000727,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_13869.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004687,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_7009.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001968,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_3427.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000902,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_28475.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006213,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_20035.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001680,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_8614.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005403,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_13047.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005664,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_52126.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005953,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_38214.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000474,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_5236.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001051,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_24644.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003555,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_8363.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006939,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1305.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004285,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_7154.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004522,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_8748.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004713,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_7365.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007435,217,1,n02102040,English springer,imagenette2-160/train/n02102040/ILSVRC2012_val_00032959.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000038,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_6517.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006388,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_36595.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005364,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_16853.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001759,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_38025.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003577,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_21508.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009339,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_5469.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003095,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15976.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007055,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_3719.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003073,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_18325.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006612,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_4116.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003296,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14136.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003391,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_16749.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001617,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_8539.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008101,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_11539.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002386,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_389.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005265,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_10449.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008464,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_229.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007626,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_25217.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000142,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_518.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007295,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2344.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001998,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_14593.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001824,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_30279.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008015,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/ILSVRC2012_val_00047974.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003441,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_13288.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005097,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_93165.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006741,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1818.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006018,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_47688.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007723,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_268.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008698,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_2427.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003672,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_14614.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000588,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_28773.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006608,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_487.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001334,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_71023.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005310,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_5725.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007368,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_2784.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004720,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_17699.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005280,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_12109.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005848,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_28136.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004570,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_11787.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004000,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_7647.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001797,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_38929.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008486,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_18276.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007628,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_14496.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001719,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_31296.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000737,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_16737.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003336,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_20823.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006198,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_16324.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006673,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_309.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009081,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_1289.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007832,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_1876.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002130,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_94.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001547,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_34606.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005733,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_896.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003465,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_15014.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000192,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_21727.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000042,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3376.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002578,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_6968.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004637,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_7926.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002898,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_13004.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003995,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_11677.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005506,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_9176.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005462,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_2408.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004005,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_9776.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004580,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_9973.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002793,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_30164.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002325,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_10944.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003246,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_21278.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001132,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_19648.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002880,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_9724.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009292,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_4147.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000188,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_8054.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000586,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_8325.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001383,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_24216.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004029,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_22135.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009426,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_189.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007844,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_26755.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009371,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_11296.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004996,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_53397.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000183,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_28747.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006689,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1703.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006080,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_13608.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000659,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_8928.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006671,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_4738.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007667,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_9415.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009311,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_7864.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004754,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_13604.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002116,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_26524.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008808,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_1986.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004515,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_12157.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001114,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_37008.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008109,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_5947.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004184,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_5087.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008129,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_1687.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002723,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_24888.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000749,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_1437.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009361,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_939.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006479,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_40564.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007877,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_3333.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007221,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_1277.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005998,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_51735.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002720,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_11628.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005717,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_16577.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006024,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_59626.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008066,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_22044.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007099,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_7603.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006435,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_36185.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008689,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10117.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003372,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_9843.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005143,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_72239.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004490,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_6945.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003973,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_3259.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003850,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_9649.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006685,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_4619.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006051,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_52259.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003740,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_6903.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004077,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_866.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004573,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_28394.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004920,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_27.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004432,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_13208.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000229,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_4664.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003898,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_7859.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005727,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_6118.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000328,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_12169.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001474,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_12378.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006192,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_37575.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003149,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_16669.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000295,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_27335.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001157,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_15797.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_007568,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_906.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006108,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_54636.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009167,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_8484.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000651,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3748.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002562,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_19438.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009146,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/ILSVRC2012_val_00035419.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005063,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_30207.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008506,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_23727.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003975,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_14169.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004685,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_15546.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006343,566,5,n03394916,French horn,imagenette2-160/train/n03394916/n03394916_38457.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005049,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_2678.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009301,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_8446.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008319,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_15188.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000471,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_15078.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_004448,0,0,n01440764,tench,imagenette2-160/train/n01440764/n01440764_13974.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002358,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_10978.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001296,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_18105.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001687,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_43839.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_009260,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_14789.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000991,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_65876.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001620,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_3797.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008560,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_6397.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002399,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_10296.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005563,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_4174.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_000263,569,6,n03417042,garbage truck,imagenette2-160/train/n03417042/n03417042_3508.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008425,482,2,n02979186,cassette player,imagenette2-160/train/n02979186/n02979186_10938.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002567,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_28288.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002215,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_4679.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_002159,491,3,n03000684,chain saw,imagenette2-160/train/n03000684/n03000684_4353.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_003704,571,7,n03425413,gas pump,imagenette2-160/train/n03425413/n03425413_6774.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001614,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_10495.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005207,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_96866.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_008761,574,8,n03445777,golf ball,imagenette2-160/train/n03445777/n03445777_10719.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_001446,701,9,n03888257,parachute,imagenette2-160/train/n03888257/n03888257_20385.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005573,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_53886.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_005382,497,4,n03028079,church,imagenette2-160/train/n03028079/n03028079_9256.JPEG,train,False,imagenette2-160_proxy
+imagenette160_train_006758,217,1,n02102040,English springer,imagenette2-160/train/n02102040/n02102040_5684.JPEG,train,False,imagenette2-160_proxy

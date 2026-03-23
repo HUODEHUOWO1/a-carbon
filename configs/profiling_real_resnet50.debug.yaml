@@ -1,0 +1,40 @@
+﻿run:
+  output_root: artifacts/profiling_debug
+  gpu_name: RTX4090
+  device: cuda:0
+  batch_size: 1
+  seed: 123
+
+workload:
+  id: resnet50_imagenet
+  e0_alias: vision
+  type: vision_classification
+  model_name: resnet50
+  checkpoint: null
+
+measurement:
+  warmup_requests: 10
+  measure_requests: 10
+  repeat_per_request: 50
+  energy_backend: nvml_total_energy
+  nvml_gpu_index: 0
+
+data:
+  calibration_csv: E:/a-carbon/data/splits/resnet50_imagenet_calibration_5000.csv
+  profile_csv: E:/a-carbon/data/splits/resnet50_imagenet_profile_5000.csv
+  sample_id_col: sample_id
+  label_col: label
+  group_id_col: group_id
+  image_col: image_path
+
+admission:
+  static_hq_mode_id: fp16_k4
+  max_accuracy_drop_pp: 1.0
+  max_latency_multiplier_vs_hq_p95: 1.5
+  max_modes: 4
+
+modes:
+  - mode_id: fp16_k4
+    precision: fp16
+    capacity_k: 4
+    backend: pytorch
